@@ -269,7 +269,7 @@ body {
 .container {
   margin-top: 8vh;
   padding-right: 13.6vw;
-  background-image: url("pexels-philippe-donn-1169754.png"); }
+  background-image: url('pexels-philippe-donn-1169754.png'); }
 
 .slider-wrapper {
   position: relative; }
